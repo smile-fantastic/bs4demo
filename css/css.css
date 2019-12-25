@@ -1,0 +1,54 @@
+	.fr{
+			float: right;
+		}
+		.a1{
+			color: #fff;
+			opacity: 0.7;
+		}
+		.left-box{
+			width: 12rem;
+			background:#283643;
+			position: fixed;
+			top: 3.5rem;
+			left: 0;
+			bottom:0;
+			padding: 0;
+			padding-top: 1rem;
+			z-index: 999;
+			box-sizing: border-box;
+			overflow: hidden;
+			margin-bottom:0;
+		}
+		.left-box a:hover{
+			background: #3c4248;
+		}
+		.left-box a{
+			box-sizing: border-box;
+			padding: 0 2rem;
+			height: 3rem;
+			line-height: 3rem;
+			color: #fff;
+			cursor: pointer;
+		}
+		.left-box a{
+			color: #fff;
+			text-decoration: none;
+		}
+		.right-box{
+			position: fixed;
+			top: 3.5rem;
+			bottom: 0;
+			left: 12rem;
+			right: 0;
+			overflow: auto;
+
+		}
+		.tiph6{
+			height: 3rem;
+			line-height: 3rem;
+			color: #6c757d;
+			border-bottom: 2px solid #e9ecef;
+		}
+		.li1{
+			border-top:none;
+		}
